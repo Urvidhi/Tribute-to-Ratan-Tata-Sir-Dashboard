@@ -33,7 +33,8 @@ To create an interactive and informative dashboard that visually represents the 
  Motivates users through storytelling backed by data—ideal for leadership training or business seminars.
  Demonstrates how visionary leadership can scale a business globally while maintaining ethics and social impact.
  Bridges storytelling with analytics, offering a new way to present biographical and legacy data.
-
-
+ 
+Dashboard Preview
+https://github.com/Urvidhi/Tribute-to-Ratan-Tata-Sir-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 
